@@ -11,10 +11,10 @@
 
 <br/>
 
-## 제1주차(Course Introduction & What is Empirical Science)
+## 제1주차(강의 소개/통계분석의 이해)
 
--  [**A섹션: Course Introduction**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1A.pdf)
+-  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1A.pdf)
 
--  [**B섹션: What is Empirical Science?**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1B.pdf)
+-  [**B섹션: 통계분석의 이해*](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1B.pdf)
 
 -  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W1.docx)
