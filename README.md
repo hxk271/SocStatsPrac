@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hxk271/IntMedStats/blob/main/sb1.jpg">
+  <img src="https://github.com/hxk271/Syllabi/blob/main/sb1.jpg">
 </p>
 
 # 사회통계연습(충북대학교 사회학과 2022년 2학기)
