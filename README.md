@@ -1,1 +1,20 @@
-# SocStatisPrac
+<p align="center">
+  <img src="https://github.com/hxk271/IntMedStats/blob/main/sb1.jpg">
+</p>
+
+# 사회통계연습(충북대학교 사회학과 2022년 2학기)
+
+
+이 레파지토리에는 사회통계연습 강의안이 담겨 있습니다. 이 수업에 관한 보다 자세한 설명은 [실라버스](https://github.com/hxk271/Syllabi/blob/main/5663018(2022-2).pdf)를 참고하세요. 비슷한 강의를 개설하시는 선생님들께도 참고가 되기를 바랍니다. 자유로이 나누어 보셔도 되지만 상업적 이용은 불허하고 있습니다.
+
+오류를 발견하셨거나 개선을 위한 건의사항이 있으시면 연락 부탁합니다.
+
+<br/>
+
+## 제1주차(Course Introduction & What is Empirical Science)
+
+-  [**A섹션: Course Introduction**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1A.pdf)
+
+-  [**B섹션: What is Empirical Science?**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W1B.pdf)
+
+-  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W1.docx)
