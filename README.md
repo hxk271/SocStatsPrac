@@ -17,4 +17,6 @@
 
 -  [**B섹션: 통계분석의 이해**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W01B.pdf)
 
+-  [연습용 자료 #1](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W01.zip)
+
 -  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W01.docx)
