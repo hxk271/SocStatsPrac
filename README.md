@@ -20,3 +20,16 @@
 -  [연습용 자료 #1](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W01.zip)
 
 -  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W01.docx)
+
+
+## 제2주차(강의 소개/통계분석의 이해)
+
+-  [**A섹션: 자료변환과 기술통계**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W02A.pdf)
+
+-  [**B섹션: 집계화와 기술통계표 구성**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W02B.pdf)
+
+-  [연습용 자료 #2](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W02.zip)
+
+-  [읽을거리 #2](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W02.zip)
+
+-  [퀴즈 #2](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W02.docx)
