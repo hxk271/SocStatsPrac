@@ -22,6 +22,8 @@
 -  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W01.docx)
 
 
+<br/>
+
 ## 제2주차(강의 소개/통계분석의 이해)
 
 -  [**A섹션: 자료변환과 기술통계**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W02A.pdf)
