@@ -24,7 +24,7 @@
 
 <br/>
 
-## 제2주차(강의 소개/통계분석의 이해)
+## 제2주차(자료의 집계와 기술통계)
 
 -  [**A섹션: 자료변환과 기술통계**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W02A.pdf)
 
@@ -35,3 +35,16 @@
 -  [읽을거리 #2](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W02.zip)
 
 -  [퀴즈 #2](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W02.docx)
+
+
+<br/>
+
+## 제3주차(시각화)
+
+-  [**A섹션: 시각화(I)**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W03A.pdf)
+
+-  [**B섹션: 시각화(II)**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W03B.pdf)
+
+-  [연습용 자료 #2](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W03.zip)
+
+  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
