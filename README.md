@@ -45,6 +45,8 @@
 
 -  [**B섹션: 시각화(II)**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W03B.pdf)
 
--  [연습용 자료 #2](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W03.zip)
+-  [연습용 자료 #3](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W03.zip)
 
-  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
+-  [읽을거리 #3](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W03.zip)
+
+-  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
