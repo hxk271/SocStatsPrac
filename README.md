@@ -62,4 +62,4 @@
 
 -  [연습용 자료 #4](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W04.zip)
 
--  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W04.docx)
+-  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W04.zip)
