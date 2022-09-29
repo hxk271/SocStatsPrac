@@ -50,3 +50,16 @@
 -  [읽을거리 #3](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W03.zip)
 
 -  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
+
+
+<br/>
+
+## 제4주차(자료관리)
+
+-  [**A섹션: 변수의 생성과 조작**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W04A.pdf)
+
+-  [**B섹션: 자료구조 재배열과 종합연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W04B.pdf)
+
+-  [연습용 자료 #4](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W04.zip)
+
+-  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W04.docx)
