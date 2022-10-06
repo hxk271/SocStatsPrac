@@ -69,7 +69,7 @@
 
 ## 제5주차(두 집단 평균비교)
 
--  [**A섹션: 단일표본 $t$ 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W05A.pdf)
+-  [**A섹션: 단일표본 t 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W05A.pdf)
 
 -  [**B섹션: 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W05B.pdf)
 
