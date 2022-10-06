@@ -63,3 +63,18 @@
 -  [연습용 자료 #4](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W04.zip)
 
 -  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W04.zip)
+
+
+<br/>
+
+## 제5주차(두 집단 평균비교)
+
+-  [**A섹션: 단일표본 $t$ 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W05A.pdf)
+
+-  [**B섹션: 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W05B.pdf)
+
+-  [연습용 자료 #5](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W05.zip)
+
+-  [읽을거리 #5](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W02.zip)
+
+-  [퀴즈 #5](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W05.zip)
