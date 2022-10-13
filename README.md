@@ -78,3 +78,18 @@
 -  [읽을거리 #5](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W02.zip)
 
 -  [퀴즈 #5](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W05.zip)
+
+
+<br/>
+
+## 제6주차(일원분산분석)
+
+-  [**A섹션: χ2 분포, F 분포 그리고 일원분산분석**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W06A.pdf)
+
+-  [**B섹션: 일원분산분석 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W06B.pdf)
+
+-  [연습용 자료 #6](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W06.zip)
+
+-  [읽을거리 #6](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W06.zip)
+
+-  [퀴즈 #6](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W06.zip)
