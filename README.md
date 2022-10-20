@@ -106,3 +106,9 @@
 -  [연습용 자료 #7](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W07.zip)
 
 -  [읽을거리 #7](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W07.zip)
+  
+
+<br/>
+
+## 제8주차(중간시험)
+
