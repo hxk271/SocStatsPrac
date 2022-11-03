@@ -112,3 +112,18 @@
 
 ## 제8주차(중간시험)
 
+
+
+<br/>
+
+## 제9주차(상관분석과 신뢰도)
+
+-  [**A섹션: 합성지수의 신뢰도**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W09A.pdf)
+
+-  [**B섹션: 상관분석과 산점도**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W09B.pdf)
+
+-  [연습용 자료 #9](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W09.zip)
+
+-  [퀴즈 #9](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W09.zip)
+
+
