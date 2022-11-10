@@ -113,7 +113,6 @@
 ## 제8주차(중간시험)
 
 
-
 <br/>
 
 ## 제9주차(상관분석과 신뢰도)
@@ -125,5 +124,18 @@
 -  [연습용 자료 #9](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W09.zip)
 
 -  [퀴즈 #9](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W09.zip)
+
+
+<br/>
+
+## 제10주차(다중회귀분석)
+
+-  [**A섹션: 회귀계수의 해석과 유의성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W10A.pdf)
+
+-  [**B섹션: 모형의 적합도와 결과표 작성**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W10B.pdf)
+
+-  [연습용 자료 #10](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W10.zip)
+
+-  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W10.zip)
 
 
