@@ -136,6 +136,8 @@
 
 -  [연습용 자료 #10](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W10.zip)
 
+-  [읽을거리 #10](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W10.zip)
+  
 -  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W10.zip)
 
 
