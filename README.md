@@ -149,6 +149,6 @@
 
 -  [**B섹션: 범주형 변수의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W11B.pdf)
 
--  [연습용 자료 #10](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W11.zip)
+-  [연습용 자료 #11](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W11.zip)
   
--  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W11.zip)
+-  [퀴즈 #11](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W11.docx)
