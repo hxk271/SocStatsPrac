@@ -152,3 +152,16 @@
 -  [연습용 자료 #11](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W11.zip)
   
 -  [퀴즈 #11](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W11.docx)
+
+
+<br/>
+
+## 제12주차(선형확률모형)
+
+-  [**A섹션: 가변수로서 종속변수**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W12A.pdf)
+
+-  [**B섹션: 범주형 변수 또는 서열척도로서 종속변수**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W12B.pdf)
+
+-  [연습용 자료 #12](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W12.zip)
+  
+-  [퀴즈 #12](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W12.docx)
