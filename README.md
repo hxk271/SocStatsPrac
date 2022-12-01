@@ -169,7 +169,7 @@
 
 <br/>
 
-## 제12주차(매개효과)
+## 제13주차(매개효과)
 
 -  [**A섹션: 매개효과의 이해**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W13A.pdf)
 
