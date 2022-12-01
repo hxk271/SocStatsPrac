@@ -165,3 +165,14 @@
 -  [연습용 자료 #12](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W12.zip)
   
 -  [퀴즈 #12](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W12.docx)
+
+
+<br/>
+
+## 제12주차(매개효과)
+
+-  [**A섹션: 매개효과의 이해**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W13A.pdf)
+
+-  [**B섹션: 총효과, 직접효과, 간접효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W13B.pdf)
+
+-  [연습용 자료 #13](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W13.zip)
