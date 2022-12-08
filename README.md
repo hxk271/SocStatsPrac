@@ -187,3 +187,5 @@
 -  [**B섹션: 가변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W14B.pdf)
 
 -  [연습용 자료 #14](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W14.zip)
+
+-  [읽을거리 #14](https://github.com/hxk271/SocStatsPrac/blob/main/Read_W14.zip)
