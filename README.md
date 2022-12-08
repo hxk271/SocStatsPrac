@@ -176,3 +176,14 @@
 -  [**B섹션: 총효과, 직접효과, 간접효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W13B.pdf)
 
 -  [연습용 자료 #13](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W13.zip)
+
+
+<br/>
+
+## 제14주차(조절효과)
+
+-  [**A섹션: 양적변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W14A.pdf)
+
+-  [**B섹션: 가변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer________W14B.pdf)
+
+-  [연습용 자료 #14](https://github.com/hxk271/SocStatsPrac/blob/main/Data_W14.zip)
