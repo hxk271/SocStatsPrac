@@ -33,3 +33,15 @@
 
 
 
+<br/>
+
+## 제3주차(시각화)
+
+-  [**A섹션: 시각화(I)**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W03A.pdf)
+
+-  [**B섹션: 시각화(II)**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W03B.pdf)
+
+-  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
+
+
+<br/>
