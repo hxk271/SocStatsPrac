@@ -54,3 +54,11 @@
 
 -  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W04.docx)
 
+
+<br/>
+
+## 제5주차(자료관리)
+
+-  [**A섹션: 단일표본 t 검정과 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05A.pdf)
+
+-  [**B섹션: 평균비교 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05B.pdf)
