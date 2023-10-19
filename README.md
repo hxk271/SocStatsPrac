@@ -79,4 +79,9 @@
 
 -  [**A섹션: 교차표와 χ2 독립성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W07A.pdf)
 
--  [**B섹션: 교차표 분석의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W07A.pdf)
+-  [**B섹션: 교차표 분석의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W07B.pdf)
+
+
+<br/>
+
+## 제8주차(중간시험)
