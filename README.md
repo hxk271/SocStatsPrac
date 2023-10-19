@@ -71,3 +71,12 @@
 -  [**A섹션: <i>χ2</i> 분포, <i>F</i> 분포 그리고 ANOVA**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W06A.pdf)
 
 -  [**B섹션: ANOVA 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W06B.pdf)
+
+
+<br/>
+
+## 제7주차(교차표 분석)
+
+-  [**A섹션: 교차표와 χ2 독립성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W07A.pdf)
+
+-  [**B섹션: 교차표 분석의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W07A.pdf)
