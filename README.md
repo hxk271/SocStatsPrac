@@ -106,6 +106,3 @@
 -  [**A섹션: 회귀계수의 해석과 유의성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W10A.pdf)
 
 -  [**B섹션: 모형의 적합도와 결과표 작성**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W10A.pdf)
-
--  [퀴즈 #9](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W09.docx)
-
