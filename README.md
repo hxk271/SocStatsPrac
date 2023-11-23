@@ -118,3 +118,10 @@
 -  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W11.docx)
 
 
+<br/>
+
+## 제12주차(선형확률모형)
+
+-  [**A섹션: 종속변수가 명목척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12A.pdf)
+
+-  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W11B.pdf)
