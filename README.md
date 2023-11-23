@@ -124,4 +124,4 @@
 
 -  [**A섹션: 종속변수가 명목척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12A.pdf)
 
--  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W11B.pdf)
+-  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12B.pdf)
