@@ -125,3 +125,12 @@
 -  [**A섹션: 종속변수가 명목척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12A.pdf)
 
 -  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12B.pdf)
+
+
+<br/>
+
+## 제13주차(인과도표와 매개효과)
+
+-  [**A섹션: 인과도표**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13A.pdf)
+
+-  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13B.pdf)
