@@ -134,3 +134,12 @@
 -  [**A섹션: 인과도표**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13A.pdf)
 
 -  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13B.pdf)
+
+
+<br/>
+
+## 제14주차(조절효과)
+
+-  [**A섹션: 양적변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W14A.pdf)
+
+-  [**B섹션: 가변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W14B.pdf)
