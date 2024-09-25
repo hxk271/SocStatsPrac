@@ -41,3 +41,11 @@
 
 -  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W03.docx)
 
+
+<br/>
+
+## 제4주차(자료관리)
+
+-  [**A섹션: 변수의 조작과 자료 결합**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W04A.pdf)
+
+-  [**B섹션: 자료구조의 재배열**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W04B.pdf)
