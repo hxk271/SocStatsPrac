@@ -49,3 +49,12 @@
 -  [**A섹션: 변수의 조작과 자료 결합**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W04A.pdf)
 
 -  [**B섹션: 자료구조의 재배열**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W04B.pdf)
+
+
+<br/>
+
+## 제5주차(두 집단 평균비교)
+
+-  [**A섹션: 단일표본 <i>t</i> 검정과 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05A.pdf)
+
+-  [**B섹션: 평균비교 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05B.pdf)
