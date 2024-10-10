@@ -58,3 +58,13 @@
 -  [**A섹션: 단일표본 <i>t</i> 검정과 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05A.pdf)
 
 -  [**B섹션: 평균비교 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W05B.pdf)
+
+
+<br/>
+
+## 제6주차(일원분산분석)
+
+-  [**A섹션: <i>χ2</i> 분포, <i>F</i> 분포 그리고 ANOVA**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W06A.pdf)
+
+-  [**B섹션: ANOVA 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W06B.pdf)
+
