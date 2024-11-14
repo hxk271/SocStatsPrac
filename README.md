@@ -101,3 +101,14 @@
 -  [**A섹션: 회귀계수의 해석과 유의성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W10A.pdf)
 
 -  [**B섹션: 모형의 적합도와 결과표 작성**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W10B.pdf)
+
+
+<br/>
+
+## 제11주차(범주형 독립변수)
+
+-  [**A섹션: 가변수의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W11A.pdf)
+
+-  [**B섹션: 범주형 변수의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W11B.pdf)
+
+-  [퀴즈 #11](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W11.docx)
