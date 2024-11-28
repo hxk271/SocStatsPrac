@@ -1,4 +1,4 @@
-<p align="center">
+[Beamer_사회통계연습_W13B.pdf](https://github.com/user-attachments/files/17948923/Beamer_._W13B.pdf)[Beamer_사회통계연습_W13A.pdf](https://github.com/user-attachments/files/17948921/Beamer_._W13A.pdf)<p align="center">
   <img src="https://github.com/hxk271/Syllabi/blob/main/sb1.jpg">
 </p>
 
@@ -121,4 +121,13 @@
 -  [**A섹션: 종속변수가 명목척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12A.pdf)
 
 -  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W12B.pdf)
+
+
+<br/>
+
+## 제13주차(인과도표와 매개효과)
+
+-  [**A섹션: 인과도표**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13A.pdf)
+
+-  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W13B.pdf)
 
