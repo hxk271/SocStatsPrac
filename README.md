@@ -13,9 +13,9 @@
 
 ## 제1주차(강의 소개/통계분석의 이해)
 
--  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W01A.pdf)
+-  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W01A.pdf)
 
--  [**B섹션: 통계분석의 이해**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W01B.pdf)
+-  [**B섹션: 통계분석의 이해**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W01B.pdf)
 
--  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W01.docx)
+-  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W01.docx)
 
