@@ -19,3 +19,13 @@
 
 -  [퀴즈 #1](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W01.docx)
 
+
+<br/>
+
+## 제2주차(자료의 집계와 기술통계)
+
+-  [**A섹션: 자료변환과 기술통계**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W02A.pdf)
+
+-  [**B섹션: 집계화와 기술통계표 구성**](https://github.com/hxk271/SocStatsPrac/blob/main/Beamer_사회통계연습_W02B.pdf)
+
+-  [퀴즈 #2](https://github.com/hxk271/SocStatsPrac/blob/main/HW_W02.docx)
