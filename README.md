@@ -29,3 +29,14 @@
 -  [**B섹션: 집계화와 기술통계표 구성**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W02B.pdf)
 
 -  [퀴즈 #2](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W02.docx)
+
+
+<br/>
+
+## 제3주차(시각화)
+
+-  [**A섹션: 시각화(I)**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W03A.pdf)
+
+-  [**B섹션: 시각화(II)**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W03B.pdf)
+
+-  [퀴즈 #3](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W03.docx)
