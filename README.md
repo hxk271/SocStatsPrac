@@ -51,3 +51,18 @@
 -  [**B섹션: 자료구조의 재배열**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W04B.pdf)
 
 -  [퀴즈 #4](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W04.docx)
+
+
+<br/>
+
+## 제5주차(두 집단 평균비교)
+
+-  [**A섹션: 단일표본 <i>t</i> 검정과 평균비교**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W05A.pdf)
+
+-  [**B섹션: 평균비교의 실제 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W05B.pdf)
+
+-  [퀴즈 #5](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W05.docx)
+
+
+
+
