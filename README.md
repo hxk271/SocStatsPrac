@@ -64,5 +64,13 @@
 -  [퀴즈 #5](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W05.docx)
 
 
+<br/>
 
+## 제6주차(일원분산분석)
+
+-  [**A섹션: <i>χ2</i> 분포, <i>F</i> 분포 그리고 ANOVA**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W06A.pdf)
+
+-  [**B섹션: ANOVA 연습**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W06B.pdf)
+
+-  [퀴즈 #6](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W06.docx)
 
