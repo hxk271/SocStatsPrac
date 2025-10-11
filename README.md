@@ -74,3 +74,13 @@
 
 -  [퀴즈 #6](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W06.docx)
 
+
+<br/>
+
+## 제7주차(교차표 분석)
+
+-  [**A섹션: 교차표와 χ2 독립성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W07A.pdf)
+
+-  [**B섹션: 교차표 분석의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W07B.pdf)
+
+-  [퀴즈 #7](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W07.docx)
