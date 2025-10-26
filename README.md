@@ -84,3 +84,19 @@
 -  [**B섹션: 교차표 분석의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W07B.pdf)
 
 -  [퀴즈 #7](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W07.docx)
+
+
+<br/>
+
+## 제8주차(중간시험)
+
+
+<br/>
+
+## 제9주차(상관분석과 신뢰도)
+
+-  [**A섹션: 합성지수의 신뢰도**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W09A.pdf)
+
+-  [**B섹션: 상관분석과 산점도**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W09B.pdf)
+
+-  [퀴즈 #9](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W09.docx)
