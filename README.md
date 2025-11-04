@@ -100,3 +100,15 @@
 -  [**B섹션: 상관분석과 산점도**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W09B.pdf)
 
 -  [퀴즈 #9](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W09.docx)
+
+
+<br/>
+
+## 제10주차(다중회귀분석)
+
+-  [**A섹션: 회귀계수의 해석과 유의성 검정**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W10A.pdf)
+
+-  [**B섹션: 모형의 적합도와 결과표 작성**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W10B.pdf)
+
+-  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W10.docx)
+
