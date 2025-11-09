@@ -112,3 +112,13 @@
 
 -  [퀴즈 #10](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W10.docx)
 
+
+<br/>
+
+## 제11주차(범주형 독립변수)
+
+-  [**A섹션: 가변수의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W11A.pdf)
+
+-  [**B섹션: 범주형 변수의 활용**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W11B.pdf)
+
+-  [퀴즈 #11](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W11.docx)
