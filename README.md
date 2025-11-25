@@ -144,4 +144,4 @@
 
 -  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W13B.pdf)
 
-
+-  [퀴즈 #13](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W13.docx)
