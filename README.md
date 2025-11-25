@@ -134,3 +134,14 @@
 
 -  [퀴즈 #12](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W12.docx)
 
+
+
+<br/>
+
+## 제13주차(인과도표와 매개효과)
+
+-  [**A섹션: 인과도표**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W13A.pdf)
+
+-  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W13B.pdf)
+
+
