@@ -135,7 +135,6 @@
 -  [퀴즈 #12](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W12.docx)
 
 
-
 <br/>
 
 ## 제13주차(인과도표와 매개효과)
@@ -145,3 +144,24 @@
 -  [**B섹션: 매개효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W13B.pdf)
 
 -  [퀴즈 #13](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W13.docx)
+
+
+<br/>
+
+## 제14주차(조절효과)
+
+-  [**A섹션: 양적변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W14A.pdf)
+
+-  [**B섹션: 가변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W14B.pdf)
+
+-  [퀴즈 #14](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W14.docx)
+
+
+<br/>
+
+## 제15주차(기말시험)
+
+
+<br/>
+
+사랑하는 2025년 2학기 사회통계연습 수강생 여러분, 한 학기동안 수고 많았습니다!
