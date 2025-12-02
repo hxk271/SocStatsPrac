@@ -154,8 +154,6 @@
 
 -  [**B섹션: 가변수×가변수 조절효과**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W14B.pdf)
 
--  [퀴즈 #14](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W14.docx)
-
 
 <br/>
 
