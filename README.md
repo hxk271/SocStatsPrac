@@ -133,3 +133,13 @@
 
 
 
+<br/>
+
+## 제12주차(선형확률모형)
+
+-  [**A섹션: 종속변수가 명목척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W12A.pdf)
+
+-  [**B섹션: 종속변수가 서열척도인 경우**](https://github.com/hxk271/SocStatsPrac/blob/main/archive/Beamer_사회통계연습_W12B.pdf)
+
+-  [퀴즈 #12](https://github.com/hxk271/SocStatsPrac/blob/main/archive/HW_W12.docx)
+
